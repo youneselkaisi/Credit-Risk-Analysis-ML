@@ -109,11 +109,11 @@ Interpretation
 - Activation: relu  
 - Max epochs: 200  
 
-<img width="855" height="85" alt="image" src="https://github.com/user-attachments/assets/55ce0677-3f25-4fee-a6d3-5abec0f86eeb" />
+<img width="600" height="85" alt="image" src="https://github.com/user-attachments/assets/55ce0677-3f25-4fee-a6d3-5abec0f86eeb" />
 
-<img width="794" height="591" alt="image" src="https://github.com/user-attachments/assets/dba60b61-e5f1-43b1-b32e-71e6cfdec23e" />
+<img width="600" height="591" alt="image" src="https://github.com/user-attachments/assets/dba60b61-e5f1-43b1-b32e-71e6cfdec23e" />
 
-<img width="505" height="327" alt="image" src="https://github.com/user-attachments/assets/80abfe91-1b5a-4477-87ee-cc49e87521bc" />
+<img width="600" height="327" alt="image" src="https://github.com/user-attachments/assets/80abfe91-1b5a-4477-87ee-cc49e87521bc" />
 
 
 Interpretation  
@@ -126,12 +126,12 @@ Interpretation
 - Learning rate adaptive with learning_rate_init: 0.01  
 - Max epochs: 200  
 
-<img width="663" height="93" alt="image" src="https://github.com/user-attachments/assets/6d8d930f-8691-4734-ad4b-68819a766757" />
+<img width="600" height="93" alt="image" src="https://github.com/user-attachments/assets/6d8d930f-8691-4734-ad4b-68819a766757" />
 
 
-<img width="697" height="528" alt="image" src="https://github.com/user-attachments/assets/ac5211a0-32ec-42b0-9268-21d9d531eba1" />
+<img width="600" height="528" alt="image" src="https://github.com/user-attachments/assets/ac5211a0-32ec-42b0-9268-21d9d531eba1" />
 
-<img width="625" height="340" alt="image" src="https://github.com/user-attachments/assets/60aed196-a03c-47a5-8827-618347bb94a5" />
+<img width="600" height="340" alt="image" src="https://github.com/user-attachments/assets/60aed196-a03c-47a5-8827-618347bb94a5" />
 
 
 
