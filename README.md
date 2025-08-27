@@ -4,13 +4,13 @@
 ## Overview
 This project builds and evaluates neural-network models to predict credit risk (default vs non-default) using borrower demographics, credit attributes, and loan features from a public Kaggle dataset. The workflow covers data exploration, cleaning, preprocessing, modelling with Multi-Layer Perceptrons (MLPs), and model evaluation.
 
-Who would use this:  
+**Who would use this:**  
 1) Risk and underwriting teams to screen applications, price loans, and set approval thresholds  
 2) Portfolio managers to estimate expected loss, segment risk tiers, and run scenario analysis  
 3) Collections and servicing to prioritize accounts most likely to roll into delinquency  
 4) Fintech and neobank product teams to build automated decisioning pipelines and real-time risk scoring
 
-Business and financial use cases: 
+**Business and financial use cases:**
 1) Reduce default rates by flagging high-risk applicants pre-approval  
 2) Optimize interest rate offers by aligning price to predicted risk  
 3) Lower manual review costs through automated triage and clear confidence thresholds  
