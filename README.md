@@ -91,12 +91,12 @@ All models are Multi-Layer Perceptrons (scikit-learn MLPClassifier)
 - Learning rate adaptive with learning_rate_init: 0.001  
 - Max epochs: 300 with early_stopping True  
 
-<img width="779" height="116" alt="image" src="https://github.com/user-attachments/assets/ad0fb133-a412-47b9-90d6-63e83779d148" />
+<img width="600" height="116" alt="image" src="https://github.com/user-attachments/assets/ad0fb133-a412-47b9-90d6-63e83779d148" />
 
-<img width="796" height="583" alt="image" src="https://github.com/user-attachments/assets/18be2e62-84cc-4c0d-9151-ccbb84fc2c82" />
+<img width="600" height="583" alt="image" src="https://github.com/user-attachments/assets/18be2e62-84cc-4c0d-9151-ccbb84fc2c82" />
 
 
-<img width="657" height="418" alt="image" src="https://github.com/user-attachments/assets/dbe6709d-9ad8-4bf2-8129-2e39f6228dab" />
+<img width="600" height="418" alt="image" src="https://github.com/user-attachments/assets/dbe6709d-9ad8-4bf2-8129-2e39f6228dab" />
 
 
 Interpretation  
